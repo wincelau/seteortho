@@ -1,0 +1,77 @@
+{
+  "checksum": {
+    "previous": "fd359a710420618412e52eed7a0d9b6810f1bf13278b12b40a76fead105c6ff5",
+    "current": "fd359a710420618412e52eed7a0d9b6810f1bf13278b12b40a76fead105c6ff5"
+  },
+  "fonts": [
+    "./ortho.ttf",
+    "./ortho.svg",
+    "./ortho.woff",
+    "./ortho.eot",
+    "./ortho.woff2"
+  ],
+  "glyphs": {
+    "bascontention": {
+      "codepoint": 61702,
+      "source": "svg/bascontention.svg"
+    },
+    "cog": {
+      "codepoint": 61697,
+      "source": "svg/cog.svg"
+    },
+    "corset": {
+      "codepoint": 61698,
+      "source": "svg/corset.svg"
+    },
+    "doctolib": {
+      "codepoint": 61703,
+      "source": "svg/doctolib.svg"
+    },
+    "orthese": {
+      "codepoint": 61699,
+      "source": "svg/orthese.svg"
+    },
+    "semelle": {
+      "codepoint": 61700,
+      "source": "svg/semelle.svg"
+    },
+    "vetement": {
+      "codepoint": 61701,
+      "source": "svg/vetement.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "ortho",
+    "force": false,
+    "input": {
+      "templates": "svg",
+      "vectors": "svg"
+    },
+    "no_hash": true,
+    "output": {
+      "css": ".",
+      "fonts": ".",
+      "preview": "."
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "./ortho.css",
+    "./ortho-preview.html"
+  ]
+}
