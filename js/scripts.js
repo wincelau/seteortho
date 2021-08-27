@@ -22,6 +22,11 @@ window.addEventListener('DOMContentLoaded', event => {
         }
 
     };
+    
+    
+    if (iOS) {
+        document.querySelector('#link-geo').href=document.querySelector('#link-geo').href.replace('geo:', 'maps://?q=');
+    }
 
     // Shrink the navbar 
     navbarShrink();
