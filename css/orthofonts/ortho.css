@@ -30,6 +30,7 @@
 .icon-doctolib:before,
 .icon-orthese:before,
 .icon-semelle:before,
+.icon-shoes:before,
 .icon-vetement:before {
   display: inline-block;
   font-family: "ortho";
@@ -51,4 +52,5 @@
 .icon-doctolib:before { content: "\f107"; }
 .icon-orthese:before { content: "\f103"; }
 .icon-semelle:before { content: "\f104"; }
+.icon-shoes:before { content: "\f108"; }
 .icon-vetement:before { content: "\f105"; }

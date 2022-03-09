@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "fd359a710420618412e52eed7a0d9b6810f1bf13278b12b40a76fead105c6ff5",
-    "current": "fd359a710420618412e52eed7a0d9b6810f1bf13278b12b40a76fead105c6ff5"
+    "previous": "785dff01bae246b5175869488d17eabd35d952d772ffc8d0ff394f80d784c3fa",
+    "current": "785dff01bae246b5175869488d17eabd35d952d772ffc8d0ff394f80d784c3fa"
   },
   "fonts": [
     "./ortho.ttf",
@@ -34,6 +34,10 @@
     "semelle": {
       "codepoint": 61700,
       "source": "svg/semelle.svg"
+    },
+    "shoes": {
+      "codepoint": 61704,
+      "source": "svg/shoes.svg"
     },
     "vetement": {
       "codepoint": 61701,
