@@ -11790,3 +11790,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 .text-shadow {
     text-shadow: 0 .125rem .25rem rgba(0,0,0,.075) !important
 }
+
+.carousel-item img {
+    object-fit: contain; 
+    height: 500px;
+}
